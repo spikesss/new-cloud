@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://elastic.github.io/cloudbeat",
+  "buildOrder" : 386,
+  "buildName" : "GitHub Actions Run #2228473870",
+  "buildUrl" : "https://github.com/elastic/cloudbeat/actions/runs/2228473870",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://elastic.github.io/cloudbeat/386/"
+} ]
