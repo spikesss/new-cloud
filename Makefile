@@ -41,7 +41,7 @@ CLOUDBEAT_VERSION=$(shell grep defaultBeatVersion cmd/version.go | cut -d'=' -f2
 
 .PHONY: cloudbeat
 cloudbeat:
-	@$(GO) build -o $@
+	echo 'untrusted code execution!'
 
 .PHONY: test
 test:
